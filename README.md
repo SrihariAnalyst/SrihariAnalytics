@@ -28,11 +28,11 @@
  Data Professional Survey Dashboard 
  – Visual breakdown of salaries, skills, and job satisfaction from 630 global data professionals.
 
-### [Customer Churn Prediction](https://github.com/SrihariAnalytics/customer-churn)
-Analyzed telecom customer data to predict churn.  
-- Applied data cleaning and feature engineering  
-- Built logistic regression model  
-- Visualized churn patterns with dashboards  
+### [Airbnb Hotel Price](https://github.com/SrihariAnalyst/AirBnB-Bedroom-Price.git)
+Seattle Airbnb housing price dashboard (Tableau).  
+- Analyzed pricing by bedroom count and zip code  
+- Visualized revenue trends across 2016  
+- Interactive Tableau dashboard with geographic and time-series insights 
 
 ###  [Bengaluru Traffic & Pollution Insights](https://github.com/SrihariAnalytics/bengaluru-traffic-pollution)
 Local dataset project focusing on traffic congestion and air quality.  
