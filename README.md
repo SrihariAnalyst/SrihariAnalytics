@@ -1,4 +1,4 @@
-# SrihariAnalytics
+# SrihariAnalyst
 # Hi, I'm Srihari 👋  
 ### Data Analyst/Business Analyst |  Transforming raw data into business-ready insights
 
