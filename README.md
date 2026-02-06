@@ -38,7 +38,7 @@ Seattle Airbnb housing price dashboard (Tableau).
 - Interactive Tableau dashboard with geographic and time-series insights
 - View interactive dashboard: [Tableau Public Link](https://public.tableau.com/...)
 
-### Data Professional Survey Dashboard ()
+### [Data Professional Survey Dashboard](https://github.com/SrihariAnalyst/data-professional-survey-dashboard.git)
 Interactive Power BI/Excel-style dashboard analyzing global data professionals.
 - Visual breakdown of salaries, skills, and job satisfaction from 630 survey responses
 - Gauges for happiness with salary and work-life balance
@@ -46,7 +46,7 @@ Interactive Power BI/Excel-style dashboard analyzing global data professionals.
 - Entry difficulty analysis with donut chart
 - Country-wise treemap and job title salary comparison
 
-### Customer Call List Cleaning (https://github.com/SrihariAnalyst/Customer-Call-List-Data-Cleaning-with-Pandas.git)
+### [Customer Call List Cleaning](https://github.com/SrihariAnalyst/Customer-Call-List-Data-Cleaning-with-Pandas.git)
 Data cleaning project using Python (Pandas).
 - Fixed inconsistent phone numbers and messy names
 - Normalized categorical values (Yes / No)
