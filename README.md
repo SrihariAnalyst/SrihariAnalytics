@@ -24,21 +24,27 @@
 ---
 
 ## 📂 Featured Projects
- ### [Data Professional Survey](https://github.com/SrihariAnalyst/data-professional-survey-dashboard.git)
- Data Professional Survey Dashboard 
- – Visual breakdown of salaries, skills, and job satisfaction from 630 global data professionals.
-
-### [Airbnb Hotel Price](https://github.com/SrihariAnalyst/AirBnB-Bedroom-Price.git)
-Seattle Airbnb housing price dashboard (Tableau).  
-- Analyzed pricing by bedroom count and zip code  
-- Visualized revenue trends across 2016  
-- Interactive Tableau dashboard with geographic and time-series insights 
 
 ### [Bike Sales Dashboard](https://github.com/SrihariAnalyst/Excel-Bike-Sales-Dashboard.git)
 Interactive Excel dashboard analyzing bike purchase behavior.
 - Visualized customer demographics (income, age, gender, commute distance)
 - Built slicers for marital status, region, and education
 - Highlighted key insights for marketing and sales strategies
+
+### [Airbnb Hotel Price](https://github.com/SrihariAnalyst/AirBnB-Bedroom-Price.git)
+Seattle Airbnb housing price dashboard (Tableau).  
+- Analyzed pricing by bedroom count and zip code  
+- Visualized revenue trends across 2016  
+- Interactive Tableau dashboard with geographic and time-series insights
+- View interactive dashboard: [Tableau Public Link](https://public.tableau.com/...)
+
+### Data Professional Survey Dashboard ()
+Interactive Power BI/Excel-style dashboard analyzing global data professionals.
+- Visual breakdown of salaries, skills, and job satisfaction from 630 survey responses
+- Gauges for happiness with salary and work-life balance
+- Favorite programming languages segmented by job title
+- Entry difficulty analysis with donut chart
+- Country-wise treemap and job title salary comparison
 
 ### Customer Call List Cleaning (https://github.com/SrihariAnalyst/Customer-Call-List-Data-Cleaning-with-Pandas.git)
 Data cleaning project using Python (Pandas).
@@ -54,7 +60,7 @@ Exploratory Data Analysis of global population dataset using Python (Pandas, Sea
 - Visualized growth patterns (1970–2022) with line charts
 - Exported raw, cleaned, and analysis‑ready datasets
 
-### [Global Layoffs Dataset]()
+### [Global Layoffs Dataset](https://github.com/SrihariAnalyst/global-layoffs-dataset.git)
 SQL-based data cleaning and exploratory analysis of global company layoffs (2020–2023).
 - Cleaned raw dataset using SQL (duplicates, nulls, standardization)
 - Performed exploratory data analysis (EDA) to identify trends, max layoffs, and company rankings
