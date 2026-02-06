@@ -40,6 +40,21 @@ Interactive Excel dashboard analyzing bike purchase behavior.
 - Built slicers for marital status, region, and education
 - Highlighted key insights for marketing and sales strategies
 
+### Customer Call List Cleaning ()
+Data cleaning project using Python (Pandas).
+- Fixed inconsistent phone numbers and messy names
+- Normalized categorical values (Yes / No)
+- Removed duplicates and irrelevant columns
+- Exported clean dataset in CSV & Excel formats
+
+### [World Population EDA](https://github.com/SrihariAnalyst/world-population-dataset.git)
+Exploratory Data Analysis of global population dataset using Python (Pandas, Seaborn, Matplotlib).
+- Cleaned raw population data across countries and years
+- Transformed dataset by continent for trend analysis
+- Visualized growth patterns (1970–2022) with line charts
+- Exported raw, cleaned, and analysis‑ready datasets
+
+
 
 
 ## 🌟 Goals
